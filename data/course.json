@@ -24,6 +24,7 @@
     "website": "14-461-advanced-macroeconomics-i-fall-2012"
   },
   "course_title": "Advanced Macroeconomics I",
+  "hide_download": true,
   "course_description": "14.461 is an advanced course in macroeconomics that seeks to bring students to the research frontier. The course is divided into two sections. The first half is taught by Prof. Iv\u00e1n Werning and covers topics such as how to formulate and solve optimal problems. Students will study fiscal and monetary policy, among other issues. The second half, taught by Prof. George-Marios Angeletos, covers recent work on multiple equilibria, global games, and informational fictions.\n",
   "department_numbers": [
     "14"
@@ -34,6 +35,7 @@
     "content": "cf38f9e9-de39-2f82-0927-547bf31c52f7",
     "website": "14-461-advanced-macroeconomics-i-fall-2012"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets"
   ],
